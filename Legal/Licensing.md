@@ -91,8 +91,6 @@
 | Video Game Assets and Documentation         | **CC BY-SA 4.0**    | Requires attribution & sharing alike.                                                                |
 | Libraries, Godot Addons, Bevy Plugins, etc. | **LGPL-3.0**        | Allows inclusion in all types of projects without "infecting" it.                                    |
 
-For the ultimate protection, consider combining these with explicit patent provisions from **Apache 2.0** and endorsement protection from **BSD-3**.
-
 ## Common License Concerns Explained
 
 ### Attribution
