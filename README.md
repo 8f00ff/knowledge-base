@@ -42,4 +42,4 @@ Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](h
 
 See the [full license text](LICENSE).
 
-*Queer Cat from [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats), Apache 2.0 Licensed*
+*Morning Pride Cat from [ZoeBijl/QueerCats](https://github.com/ZoeBijl/QueerCats), Apache 2.0 Licensed.*
