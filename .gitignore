@@ -1,0 +1,41 @@
+# gitignore
+
+.obsidian/plugins/*
+.obsidian/workspace/*
+.obsidian/workspace.json
+.obsidian-git-data
+Untitled*
+null*
+
+# os
+
+.DS_Store
+
+.[tT]rash/
+.Trash-*
+*~
+*.swp
+.fuse_hidden*
+.directory
+.nfs*
+
+# git
+
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+# vscode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets

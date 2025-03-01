@@ -1,0 +1,15 @@
+# Attributes
+[attr]txt      text eol=lf
+[attr]bin      filter=lfs diff=lfs merge=lfs -text binary
+
+# All wildcard
+*              text=auto
+
+# Git
+.gitattributes txt export-ignore
+.gitignore     txt export-ignore
+.gitkeep       txt export-ignore
+
+# Generic
+*.json         txt diff=json
+*.md           txt diff=markdown
