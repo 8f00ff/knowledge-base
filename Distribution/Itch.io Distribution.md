@@ -173,19 +173,7 @@ jobs:
 
 ### Version Numbering
 
-Use semantic versioning for clarity:
-
-- **1.0.0**: Initial release
-- **1.1.0**: New features
-- **1.1.1**: Bug fixes
-- **2.0.0**: Major changes
-
-For more information, see:
-
-- [semver](https://semver.org/) - The official semver specification.
-- [PEP 440](https://peps.python.org/pep-0440/) - Python's version identification and dependency specification.
-- [Cargo's SemVer Guide](https://doc.rust-lang.org/cargo/reference/semver.html) - Rust's Cargo semver compatibility.
-- [npm semver calculator](https://semver.npmjs.com/) - npm semver calculator.
+Use semantic versioning for clarity. For more information, see [Semantic Versioning](../Documenting/Versioning.md#Semantic%20Versioning).
 
 ### Communicating Changes
 
