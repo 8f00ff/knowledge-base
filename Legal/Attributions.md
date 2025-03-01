@@ -45,26 +45,27 @@ All original supporters MUST be preserved, new ones may be appended.
 ---
 ## Implementation Instructions
 
-1. **Create an ATTRIBUTIONS.md file** in your project root with these sections:
+1. **Create an `ATTRIBUTIONS.md` file** in your project root with these sections:
     
     ```markdown
     # ATTRIBUTIONS
     
     ## Maintainers
+    
     * [Your Name] - Project creator and lead maintainer
-    # For forks, replace with current maintainers. PR forks don't need to modify this.
     
     ## Original Authors
+    
     * [Your Name] - Project creator and lead maintainer
-    # This section should remain unchanged in all derivatives and forks
     
     ## Additional Contributors
-    * None yet - be the first!
-    # New contributors can be added here - PR authors should add themselves here
+    
+    _None yet - be the first!_
     
     ## Supporters
-    * [Optional: List your supporters, donors, etc.]
-    # New supporters can be added here while preserving original ones
+    
+    _* [Optional: List your supporters, donors, etc.]_
+    
     ```
     
 2. **Add a License Section** in your README.md that references both the license and attribution requirements:
@@ -75,6 +76,13 @@ All original supporters MUST be preserved, new ones may be appended.
     This project is licensed under [LICENSE NAME] - see the [LICENSE](LICENSE) file for details.
     
     This project also has specific attribution requirements - see the [Attribution Requirements](#attribution-requirements) section.
+	## License
+	
+	![GitHub License](https://img.shields.io/github/license/8f00ff/astrocore)
+	
+	This project is licensed under [LICENSE NAME](LICENSE) - see the [LICENSE](LICENSE) file for details.
+	
+	This project also has specific attribution requirements - see the [Attribution Requirements](CONTRIBUTING.md#attribution-requirements) section of the [Contributing Guidelines](CONTRIBUTING.md).
     ```
     
 3. **Include in your splash screen/credits** (for games):
